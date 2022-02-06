@@ -49,7 +49,7 @@ local Aiming = {
     FOVSides = 400,
     FOVColour = Color3fromRGB(20, 20, 44),
     Filled = false,
-    Transparency = 0.1,
+    Transparency = 0.5,
     VisibleCheck = false,
 
     HitChance = 100,
