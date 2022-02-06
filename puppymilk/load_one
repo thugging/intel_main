@@ -45,11 +45,11 @@ local Aiming = {
     Enabled = false,
 
     ShowFOV = false,
-    FOV = 70,
+    FOV = 50,
     FOVSides = 400,
-    FOVColour = Color3fromRGB(255, 255, 255),
+    FOVColour = Color3fromRGB(20, 20, 44),
     Filled = false,
-    Transparency = 0.5,
+    Transparency = 0.1,
     VisibleCheck = false,
 
     HitChance = 100,
