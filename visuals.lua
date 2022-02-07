@@ -1,13 +1,13 @@
 local Lowfi = {
     Boxes = false,
-    BoxesColor = Color3.fromRGB(112, 18, 165),
+    BoxesColor = Color3.fromRGB(255, 255, 255),
     Names = false,
-    NamesColor = Color3.fromRGB(112, 18, 165),
+    NamesColor = Color3.fromRGB(255, 255, 255),
     Distance = false,
-    DistanceColor = Color3.fromRGB(112, 18, 165),
+    DistanceColor = Color3.fromRGB(255, 255, 255),
     Cham = false,
-    ChamColor1 = Color3.fromRGB(112, 18, 165),
-    ChamColor2 = Color3.fromRGB(112, 18, 165),
+    ChamColor1 = Color3.fromRGB(255, 255, 255),
+    ChamColor2 = Color3.fromRGB(0, 0, 0),
     Thickness = 1,
     Objects = setmetatable({}, {__mode = "kv"})
 }
