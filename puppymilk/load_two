@@ -1,5 +1,5 @@
 -- // Dependencies
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/i-nasa/intel_main/main/puppymilk/load_one"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/thugging/intel_main/main/puppymilk/load_one"))()
 Aiming.TeamCheck(false)
 
 -- // Services
